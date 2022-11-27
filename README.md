@@ -16,9 +16,9 @@
 
 
 ### About Me
-:earth_africa:	São Paulo, Brazil \n
-:mortar_board:	Computer Engineering at FIAP \n
-:technologist:	Data Engineer \n
+:earth_africa:	São Paulo, Brazil <br>
+:mortar_board:	Computer Engineering at FIAP <br>
+:technologist:	Data Engineer <br>
 
 ### Contacts
 <ul>
