@@ -22,7 +22,7 @@
 
 ### Contacts
 <ul>
-  <a href="https://pagedart.com](https://www.linkedin.com/in/matheus-borges-2208/">
+  <a href="https://www.linkedin.com/in/matheus-borges-2208/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
   </a>
 </ul>
