@@ -3,7 +3,7 @@
 
 <ul>
   <li><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"></li>
-  <li><img src="https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark AR&logoColor=white" alt="Spark"></li>
+  <li><img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" alt="Spark"></li>
   <li><img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" alt="Databricks"></li>
   <li><img src="https://img.shields.io/badge/Apache-Hadoop-orange" alt="Hadoop"></li>
   <li><img src="https://img.shields.io/badge/Apache-Hive-orange" alt="Apache Hive"></li>
