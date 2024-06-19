@@ -79,7 +79,7 @@ Hello! I'm Matheus Henrique Borges dos Santos, a dedicated Data Engineer from SÃ
 ---
 
 ![](https://komarev.com/ghpvc/?username=iMatheusHenrique&color=green)
-[![wakatime](https://wakatime.com/badge/user/9dc82780-e2d3-4df5-8d64-d37c31f3bd3d.svg)](https://wakatime.com/@9dc82780-e2d3-4df5-8d64-d37c31f3bd3d)
+[![wakatime](https://wakatime.com/badge/user/9dc82780-e2d3-4df5-8d64-d37c31f3bd3d.svg)]()
 
 <!-- ---
 
