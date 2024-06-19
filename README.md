@@ -65,12 +65,16 @@ Hello! I'm Matheus Henrique Borges dos Santos, a dedicated Data Engineer from S�
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/matheus-borges-2208/?locale=en_US)
 - Check out my projects on [GitHub](https://github.com/iMatheusHenrique)
+- **Email**: [Matheus.HenriqueSB@hotmail.com](mailto:Matheus.HenriqueSB@hotmail.com)
 
-<!-- ### 📊 GitHub Stats
+<!--
+### 📊 GitHub Stats -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iMatheusHenrique&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iMatheusHenrique&theme=radical)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iMatheusHenrique&theme=radical) -->
+<!-- ![Matheus Borges's GitHub stats](https://github-readme-stats.vercel.app/api?username=iMatheusHenrique&show_icons=true&theme=radical) -->
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iMatheusHenrique&layout=compact&theme=radical) -->
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iMatheusHenrique&theme=radical) -->
+<!-- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iMatheusHenrique&theme=radical) -->
+
 
 ---
 
