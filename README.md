@@ -93,6 +93,6 @@ Hello! I'm Matheus Henrique Borges dos Santos, a dedicated Data Engineer from S�
 <!-- ![](https://komarev.com/ghpvc/?username=iMatheusHenrique&color=green) -->
 <!-- [![wakatime](https://wakatime.com/badge/user/9dc82780-e2d3-4df5-8d64-d37c31f3bd3d.svg)]() -->
 
-<!-- ---
+---
 
-*This README was generated with ❤️ by [Matheus Henrique Borges dos Santos](https://github.com/iMatheusHenrique)* -->
+*This README was generated with ❤️ by [Matheus Henrique Borges dos Santos](https://github.com/iMatheusHenrique)*
