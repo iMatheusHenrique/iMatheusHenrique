@@ -75,10 +75,10 @@ Hello! I'm Matheus Henrique Borges dos Santos, a dedicated Data Engineer from SÃ
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iMatheusHenrique&theme=radical) -->
 <!-- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iMatheusHenrique&theme=radical) -->
 
+<!--
+--- -->
 
----
-
-![](https://komarev.com/ghpvc/?username=iMatheusHenrique&color=green)
+<!-- ![](https://komarev.com/ghpvc/?username=iMatheusHenrique&color=green) -->
 <!-- [![wakatime](https://wakatime.com/badge/user/9dc82780-e2d3-4df5-8d64-d37c31f3bd3d.svg)]() -->
 
 <!-- ---
