@@ -35,13 +35,6 @@ Hello! I'm Matheus Henrique Borges dos Santos, a dedicated Data Engineer from S�
 **Bachelor of Computer Engineering at FIAP**
 *2020 - 2024*
 
-### 🛠 Skills & Technologies
-
-- **Programming Languages**: Python, SQL
-- **Big Data Technologies**: Apache Spark, PySpark, Hadoop
-- **Data Engineering**: ETL, Data Warehousing, Data Pipelines, Medallion Architecture, Data Vault Architecture
-- **Tools**: Databricks, Azure Data Factory, Delta Lake, Docker, BMC Control-M, Git/GitLab, Informatica PowerCenter
-- **Cloud Platforms**: Azure
 
 ### 📜 Certifications
 
@@ -66,6 +59,25 @@ Hello! I'm Matheus Henrique Borges dos Santos, a dedicated Data Engineer from S�
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/matheus-borges-2208/?locale=en_US)
 - Check out my projects on [GitHub](https://github.com/iMatheusHenrique)
 - **Email**: [Matheus.HenriqueSB@hotmail.com](mailto:Matheus.HenriqueSB@hotmail.com)
+
+
+### 🛠 Skills & Technologies
+
+- Python
+- Databricks
+- Delta Lake
+- PySpark
+- Spark/PySpark
+- Python
+- PyTest
+- SQL
+- Databricks
+- Delta Lake
+- Data Factory
+- BMC Control-M
+- Git/GitLab
+- Informatica PowerCenter
+- Docker
 
 <!--
 ### 📊 GitHub Stats -->
