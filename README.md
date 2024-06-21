@@ -3,6 +3,7 @@
 **Data Engineer |  Databricks | Apache Spark Certified, Databricks Professional Certified, Delta Lake, Python | Azure, 2x Azure Certified | Powercenter | Hadoop**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/matheus-borges-2208/?locale=en_US) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/iMatheusHenrique) [![Credentials](https://img.shields.io/badge/Credentials-Verified-green)](https://scq.io/UHd13MQ)
+[![GitHub iMatheusHenrique]( https://img.shields.io/github/followers/iMatheusHenrique?label=follow&style=social)](https://github.com/iMatheusHenrique)
 
 ---
 
