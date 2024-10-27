@@ -8,7 +8,7 @@
 - 🗺️ Globe Showing based in São Paulo, Brazil
 - 🔭 I’m currently working as a Senior **Data Engineer**.
 - 📫 Contact me by email: **[Matheus.HenriqueSB@hotmail.com](mailto:Matheus.HenriqueSB@hotmail.com)**
-- 📫 Let's create a connection: **[Matheus-Borges]([mailto:Matheus.HenriqueSB@hotmail.com](https://www.linkedin.com/in/matheus-borges-2208/?locale=en_US))**
+- 📫 Let's create a connection: **[Matheus-Borges](https://www.linkedin.com/in/matheus-borges-2208/?locale=en_US)**
 
 ---
 
