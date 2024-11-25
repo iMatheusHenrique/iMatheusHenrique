@@ -32,8 +32,19 @@ Hello! I'm **Matheus Henrique Borges dos Santos**, a passionate Data Engineer fr
 
 ## 💼 Work Experience
 
-### **Senior Data Engineer**  
-**[F1RST Technology](https://f1rst.com.br)** (July 2024 - Present)  
+| Company               | Role                     | Dates                      |
+|-----------------------|--------------------------|----------------------------|
+| [F1RST Technology](https://f1rst.com.br) | Senior Data Engineer       | July 2024 – Present         |
+| [F1RST Technology](https://f1rst.com.br) | Data Engineer              | March 2023 – July 2024      |
+| [F1RST Technology](https://f1rst.com.br) | Junior Data Engineer       | April 2022 – March 2023     |
+| [BRQ Digital Solutions](https://www.brq.com/) | Junior Big Data Engineer | July 2021 – April 2022      |
+| ...                   | Various Roles            | Prior to 2021              |
+
+---
+
+### Key Responsibilities & Achievements
+
+#### **Senior Data Engineer** – [F1RST Technology](https://f1rst.com.br) (July 2024 – Present)
 - Led migration of a top Brazilian bank’s data pipelines from Cloudera to Azure, modernizing infrastructure and boosting efficiency.
 - Ensured Basel II regulatory compliance by spearheading risk and finance data integration projects.
 - Designed and implemented **Medallion Architecture** to optimize data processing workflows.
@@ -42,17 +53,14 @@ Hello! I'm **Matheus Henrique Borges dos Santos**, a passionate Data Engineer fr
 - Developed API communication channels to streamline data exchange.
 - Created structured Data Marts with Dimension and Fact Tables for improved analytics.
 
-### **Data Engineer**  
-**[F1RST Technology](https://f1rst.com.br)** (March 2023 - July 2024)  
+#### **Data Engineer** – [F1RST Technology](https://f1rst.com.br) (March 2023 – July 2024)
 - Contributed to critical data migration and refactoring projects.
 - Enhanced existing data workflows to improve performance and reliability.
 
-### **Junior Data Engineer**  
-**[F1RST Technology](https://f1rst.com.br)** (April 2022 - March 2023)  
+#### **Junior Data Engineer** – [F1RST Technology](https://f1rst.com.br) (April 2022 – March 2023)
 - Supported pipeline optimization and data transformation projects for various clients.
 
-### **Junior Big Data Engineer**  
-**[BRQ Digital Solutions](https://www.brq.com/)** (July 2021 - April 2022)  
+#### **Junior Big Data Engineer** – [BRQ Digital Solutions](https://www.brq.com/) (July 2021 – April 2022)
 - Delivered Big Data services for [Santander Bank](https://www.santander.com/), including ETL rule development and data analysis.
 
 ---
