@@ -1,111 +1,110 @@
 # Matheus Henrique Borges dos Santos
 
-**Data Engineer |  Databricks | Apache Spark Certified, Databricks Professional Certified, Delta Lake, Python | Azure, 2x Azure Certified | Powercenter | Hadoop**
+<img src="imgs/profile.jpg" alt="Matheus Henrique Borges dos Santos" width="200" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/matheus-borges-2208/?locale=en_US) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/iMatheusHenrique) [![Credentials](https://img.shields.io/badge/Credentials-Verified-green)](https://scq.io/UHd13MQ)
-[![GitHub iMatheusHenrique]( https://img.shields.io/github/followers/iMatheusHenrique?label=follow&style=social)](https://github.com/iMatheusHenrique)
+**Data Engineer | Databricks | Apache Spark Certified | Databricks Professional Certified | Delta Lake | Python | Azure (2x Certified) | PowerCenter | Hadoop**
 
-- 🗺️ Globe Showing based in São Paulo, Brazil
-- 🔭 I’m currently working as a Senior **Data Engineer**.
-- 📫 Contact me by email: **[Matheus.HenriqueSB@hotmail.com](mailto:Matheus.HenriqueSB@hotmail.com)**
-- 📫 Let's create a connection: **[Matheus-Borges](https://www.linkedin.com/in/matheus-borges-2208/?locale=en_US)**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/matheus-borges-2208/?locale=en_US) 
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/iMatheusHenrique) 
+[![Credentials](https://img.shields.io/badge/Credentials-Verified-green)](https://scq.io/UHd13MQ)
+[![GitHub Followers](https://img.shields.io/github/followers/iMatheusHenrique?label=follow&style=social)](https://github.com/iMatheusHenrique)
+
+---
+
+## 🌟 About Me
+
+Hello! I'm **Matheus Henrique Borges dos Santos**, a passionate Data Engineer from São Paulo, Brazil. I specialize in building scalable and efficient data pipelines using state-of-the-art technologies. With a strong foundation in Computer Engineering from FIAP, I am driven to solve complex data challenges and optimize workflows through innovative solutions.
 
 ---
 
-## 👋 About Me
+## 🛠️ Skills & Technologies
 
-Hello! I'm Matheus Henrique Borges dos Santos, a dedicated Data Engineer from São Paulo, Brazil. I specialize in building robust data pipelines and have a strong background in Computer Engineering from FIAP. I am passionate about using software engineering principles to solve complex data problems and optimize data processing.
-
-### 🛠 Skills & Technologies
-
-- Python
-- Databricks
-- Delta Lake
-- PySpark
-- Spark/PySpark
-- Python
-- PyTest
-- SQL
-- Databricks
-- Delta Lake
-- Data Factory
-- BMC Control-M
-- Git/GitLab
-- Informatica PowerCenter
-- Docker
-
-### 🏢 Work Experience
-
-**Senior Data Engineer at F1RST Technology**  
-*July 2024 - Present*  
-* Migration and Refactoring: Led the complete migration and refactoring of one of Brazil’s largest bank data pipelines, transitioning from an on-premises Cloudera environment to Azure cloud.    
-* Basel II Regulatory Compliance: Played a key role in implementing and maintaining Basel II regulatory compliance, leading projects across risk and finance
-domains.  
-* Capital Functions (IRB, New Default, Standard): Developed and optimized critical capital functions, such as IRB, New Default, and Standard, contributing to
-system robustness and accuracy.  
-* Medallion Architecture: Implemented the Medallion Architecture data model to design and optimize data pipelines.
-* Data Vault Migration: Participated in cloud migration for the Data Vault Project, including Hubs, Links, and Satellites Tables, enhancing data organization and
-accessibility.  
-* Process Automation: Introduced automation initiatives that significantly improved operational efficiency, reducing manual efforts and increasing productivity.  
-* API Communication and Data Exchange : Established effective communication channels with APIs, improving system connectivity and data exchange.
-Data Mart and Data Analytics: Led Data Mart projects, creating structured Dimension and Fact Tables to better support data analysis and reporting.   
-
-**Data Engineer at F1RST Technology**
-*March 2023 - July 2024*  
-  
-  
-**Junior Data Engineer at F1RST Technology**
-*April 2022 - March 2023*  
-  
-  
-**Junior Big Data Engineer at BRQ Digital Solutions**
-*July 2021 - April 2022*  
-
-- Provided Big Data services to Santander Bank, developing rules for ETL processes, data treatment, and analysis.
-
-
-### 📜 [Certifications](https://img.shields.io/badge/Credentials-Verified-green)
-
-- **Apache Spark Developer** - Databricks
-- **Databricks Data Engineer Professional** - Databricks
-- **Datalakehouse Fundamentals** - Databricks
-- **DP-900** - Microsoft
-- **AZ-900** - Microsoft
-- **Big Data** - FIAP
-- **Linux Fundamentals** - FIAP
-- **Python Language** - FIAP
-- **Logic Programming** - IMPACTA
-- **Advanced Microsoft Excel 2016** - SENAC
-
-### 🌐 Languages
-
-- **Portuguese**: Native
-- **English**: Advanced
-
-### 🎓 Education
-
-**Bachelor of Computer Engineering at FIAP**
-*2020 - 2024*
-
-### 📫 How to Reach Me
-
-- **Connect with me on** [LinkedIn](https://www.linkedin.com/in/matheus-borges-2208/?locale=en_US)
-- **Check out my projects on** [GitHub](https://github.com/iMatheusHenrique)
-- **Email**: [Matheus.HenriqueSB@hotmail.com](mailto:Matheus.HenriqueSB@hotmail.com)
-
-
-<!--
-### 📊 GitHub Stats -->
-
-<!-- ![Matheus Borges's GitHub stats](https://github-readme-stats.vercel.app/api?username=iMatheusHenrique&show_icons=true&theme=radical) -->
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iMatheusHenrique&layout=compact&theme=radical) -->
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iMatheusHenrique&theme=radical) -->
-<!-- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iMatheusHenrique&theme=radical) -->
-
-<!--
---- -->
-
-<!-- ![](https://komarev.com/ghpvc/?username=iMatheusHenrique&color=green) -->
-<!-- [![wakatime](https://wakatime.com/badge/user/9dc82780-e2d3-4df5-8d64-d37c31f3bd3d.svg)]() -->
+- **Programming & Tools**: Python, PySpark, SQL, Git/GitLab, Docker
+- **Big Data Frameworks**: Apache Spark, Delta Lake, Databricks
+- **Cloud Platforms**: Azure (Data Factory, Synapse Analytics), Databricks
+- **Automation & ETL**: Informatica PowerCenter, BMC Control-M
+- **Data Architecture**: Medallion Architecture, Data Vault
+- **Testing Frameworks**: PyTest
 
 ---
+
+## 💼 Work Experience
+
+### **Senior Data Engineer**  
+**F1RST Technology** (July 2024 - Present)  
+- Led migration of a top Brazilian bank’s data pipelines from Cloudera to Azure, modernizing infrastructure and boosting efficiency.
+- Ensured Basel II regulatory compliance by spearheading risk and finance data integration projects.
+- Designed and implemented **Medallion Architecture** to optimize data processing workflows.
+- Migrated **Data Vault** projects to the cloud, enhancing accessibility of Hubs, Links, and Satellites Tables.
+- Automated key processes, reducing manual efforts and increasing productivity.
+- Developed API communication channels to streamline data exchange.
+- Created structured Data Marts with Dimension and Fact Tables for improved analytics.
+
+### **Data Engineer**  
+**F1RST Technology** (March 2023 - July 2024)  
+- Contributed to critical data migration and refactoring projects.
+- Enhanced existing data workflows to improve performance and reliability.
+
+### **Junior Data Engineer**  
+**F1RST Technology** (April 2022 - March 2023)  
+- Supported pipeline optimization and data transformation projects for various clients.
+
+### **Junior Big Data Engineer**  
+**BRQ Digital Solutions** (July 2021 - April 2022)  
+- Delivered Big Data services for Santander Bank, including ETL rule development and data analysis.
+
+---
+
+## 📜 Certifications
+
+- **Apache Spark Developer** - Databricks  
+- **Databricks Data Engineer Professional** - Databricks  
+- **Delta Lake Fundamentals** - Databricks  
+- **DP-900: Microsoft Azure Data Fundamentals** - Microsoft  
+- **AZ-900: Microsoft Azure Fundamentals** - Microsoft  
+- **Big Data** - FIAP  
+- **Linux Fundamentals** - FIAP  
+- **Python Programming** - FIAP  
+- **Logic Programming** - IMPACTA  
+- **Advanced Microsoft Excel 2016** - SENAC  
+
+---
+
+## 🎓 Education
+
+**Bachelor’s in Computer Engineering**  
+**FIAP** (2020 - 2024)
+
+---
+
+## 🌍 Languages
+
+- **Portuguese**: Native  
+- **English**: Advanced  
+
+---
+
+## 📬 How to Reach Me
+
+- 📧 Email: [Matheus.HenriqueSB@hotmail.com](mailto:Matheus.HenriqueSB@hotmail.com)  
+- 🌐 LinkedIn: [Matheus-Borges](https://www.linkedin.com/in/matheus-borges-2208/?locale=en_US)  
+- 💻 GitHub: [iMatheusHenrique](https://github.com/iMatheusHenrique)
+
+---
+
+<!-- Optional GitHub Stats Section
+## 📊 GitHub Stats
+
+![Matheus Borges's GitHub stats](https://github-readme-stats.vercel.app/api?username=iMatheusHenrique&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iMatheusHenrique&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iMatheusHenrique&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iMatheusHenrique&theme=radical)
+-->
+
+---
+
+## 🚀 Let’s Connect and Build Something Amazing!
+
+
+
+
