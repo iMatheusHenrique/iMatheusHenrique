@@ -13,6 +13,18 @@
 
 ---
 
+## 📑 Table of Contents
+- [🌟 About Me](#-about-me)
+- [🛠️ Skills & Technologies](#%EF%B8%8F-skills--technologies)
+- [💼 Work Experience](#-work-experience)
+- [📜 Certifications](#-certifications)
+- [🎓 Education](#-education)
+- [🌍 Languages](#-languages)
+- [📬 How to Reach Me](#-how-to-reach-me)
+- [🚀 Let’s Connect and Build Something Amazing!](#-lets-connect-and-build-something-amazing)
+
+---
+
 ## 🌟 About Me
 
 Hello! I'm **Matheus Henrique Borges dos Santos**, a passionate Data Engineer from São Paulo, Brazil. I specialize in building scalable and efficient data pipelines using state-of-the-art technologies. With a strong foundation in Computer Engineering from FIAP, I am driven to solve complex data challenges and optimize workflows through innovative solutions.
