@@ -1,6 +1,9 @@
 # Matheus Henrique Borges dos Santos
 
-<img src="imgs/profile.jpg" alt="Matheus Henrique Borges dos Santos" width="200" />
+<div align="center">
+  <img src="imgs/profile.jpg" alt="Matheus Henrique Borges dos Santos" width="200" />
+</div>
+
 
 **Data Engineer | Databricks | Apache Spark Certified | Databricks Professional Certified | Delta Lake | Python | Azure (2x Certified) | PowerCenter | Hadoop**
 
