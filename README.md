@@ -4,7 +4,6 @@
   <img src="imgs/profile.jpg" alt="Matheus Henrique Borges dos Santos" width="200" />
 </div>
 
-
 **Data Engineer | Databricks | Apache Spark Certified | Databricks Professional Certified | Delta Lake | Python | Azure (2x Certified) | PowerCenter | Hadoop**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/matheus-borges-2208/?locale=en_US) 
@@ -60,16 +59,18 @@ Hello! I'm **Matheus Henrique Borges dos Santos**, a passionate Data Engineer fr
 
 ## 📜 Certifications
 
-- **Apache Spark Developer** - [Databricks](https://www.databricks.com/learn/certification/apache-spark-developer-associate)  
-- **Databricks Data Engineer Professional** - [Databricks](https://www.databricks.com/learn/certification/data-engineer-professional)  
-- **Delta Lake Fundamentals** - [Databricks](https://www.databricks.com/resources/learn/training/lakehouse-fundamentals)  
-- **DP-900: Microsoft Azure Data Fundamentals** - [Microsoft](https://learn.microsoft.com/pt-br/credentials/certifications/azure-data-fundamentals/?practice-assessment-type=certification)  
-- **AZ-900: Microsoft Azure Fundamentals** - [Microsoft](https://learn.microsoft.com/pt-br/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)  
-- **Big Data** - [FIAP](https://www.fiap.com.br)  
-- **Linux Fundamentals** - [FIAP](https://www.fiap.com.br)  
-- **Python Programming** - [FIAP](https://www.fiap.com.br)  
-- **Logic Programming** - [IMPACTA](https://www.impacta.edu.br/)  
-- **Advanced Microsoft Excel 2016** - [SENAC](https://www.sp.senac.br/)  
+| Certification                                | Provider           | Link                                                                                       |
+|---------------------------------------------|--------------------|-------------------------------------------------------------------------------------------|
+| **Apache Spark Developer**                  | Databricks         | [View Certification](https://www.databricks.com/learn/certification/apache-spark-developer-associate) |
+| **Databricks Data Engineer Professional**   | Databricks         | [View Certification](https://www.databricks.com/learn/certification/data-engineer-professional)       |
+| **Delta Lake Fundamentals**                 | Databricks         | [View Certification](https://www.databricks.com/resources/learn/training/lakehouse-fundamentals)      |
+| **DP-900: Azure Data Fundamentals**         | Microsoft          | [View Certification](https://learn.microsoft.com/pt-br/credentials/certifications/azure-data-fundamentals) |
+| **AZ-900: Azure Fundamentals**              | Microsoft          | [View Certification](https://learn.microsoft.com/pt-br/credentials/certifications/azure-fundamentals)  |
+| **Big Data**                                | FIAP               | [View Certification](https://www.fiap.com.br)                                              |
+| **Linux Fundamentals**                      | FIAP               | [View Certification](https://www.fiap.com.br)                                              |
+| **Python Programming**                      | FIAP               | [View Certification](https://www.fiap.com.br)                                              |
+| **Logic Programming**                       | IMPACTA            | [View Certification](https://www.impacta.edu.br/)                                          |
+| **Advanced Microsoft Excel 2016**           | SENAC              | [View Certification](https://www.sp.senac.br/)                                             |
 
 ---
 
@@ -92,5 +93,7 @@ Hello! I'm **Matheus Henrique Borges dos Santos**, a passionate Data Engineer fr
 - 📧 Email: [Matheus.HenriqueSB@hotmail.com](mailto:Matheus.HenriqueSB@hotmail.com)  
 - 🌐 LinkedIn: [Matheus-Borges](https://www.linkedin.com/in/matheus-borges-2208/?locale=en_US)  
 - 💻 GitHub: [iMatheusHenrique](https://github.com/iMatheusHenrique)
+
 ---
+
 ## 🚀 Let’s Connect and Build Something Amazing!
