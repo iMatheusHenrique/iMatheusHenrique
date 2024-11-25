@@ -34,7 +34,7 @@ Hello! I'm **Matheus Henrique Borges dos Santos**, a passionate Data Engineer fr
 ## 💼 Work Experience
 
 ### **Senior Data Engineer**  
-**F1RST Technology** (July 2024 - Present)  
+**[F1RST Technology](https://f1rst.com.br)** (July 2024 - Present)  
 - Led migration of a top Brazilian bank’s data pipelines from Cloudera to Azure, modernizing infrastructure and boosting efficiency.
 - Ensured Basel II regulatory compliance by spearheading risk and finance data integration projects.
 - Designed and implemented **Medallion Architecture** to optimize data processing workflows.
@@ -44,17 +44,17 @@ Hello! I'm **Matheus Henrique Borges dos Santos**, a passionate Data Engineer fr
 - Created structured Data Marts with Dimension and Fact Tables for improved analytics.
 
 ### **Data Engineer**  
-**F1RST Technology** (March 2023 - July 2024)  
+**[F1RST Technology](https://f1rst.com.br)** (March 2023 - July 2024)  
 - Contributed to critical data migration and refactoring projects.
 - Enhanced existing data workflows to improve performance and reliability.
 
 ### **Junior Data Engineer**  
-**F1RST Technology** (April 2022 - March 2023)  
+**[F1RST Technology](https://f1rst.com.br)** (April 2022 - March 2023)  
 - Supported pipeline optimization and data transformation projects for various clients.
 
 ### **Junior Big Data Engineer**  
-**BRQ Digital Solutions** (July 2021 - April 2022)  
-- Delivered Big Data services for Santander Bank, including ETL rule development and data analysis.
+**[BRQ Digital Solutions](https://www.brq.com/)** (July 2021 - April 2022)  
+- Delivered Big Data services for [Santander Bank](https://www.santander.com/), including ETL rule development and data analysis.
 
 ---
 
@@ -76,7 +76,7 @@ Hello! I'm **Matheus Henrique Borges dos Santos**, a passionate Data Engineer fr
 ## 🎓 Education
 
 **Bachelor’s in Computer Engineering**  
-**FIAP** (2020 - 2024)
+**[FIAP](https://www.fiap.com.br)** (2020 - 2024)
 
 ---
 
@@ -92,22 +92,5 @@ Hello! I'm **Matheus Henrique Borges dos Santos**, a passionate Data Engineer fr
 - 📧 Email: [Matheus.HenriqueSB@hotmail.com](mailto:Matheus.HenriqueSB@hotmail.com)  
 - 🌐 LinkedIn: [Matheus-Borges](https://www.linkedin.com/in/matheus-borges-2208/?locale=en_US)  
 - 💻 GitHub: [iMatheusHenrique](https://github.com/iMatheusHenrique)
-
 ---
-
-<!-- Optional GitHub Stats Section
-## 📊 GitHub Stats
-
-![Matheus Borges's GitHub stats](https://github-readme-stats.vercel.app/api?username=iMatheusHenrique&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iMatheusHenrique&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iMatheusHenrique&theme=radical)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iMatheusHenrique&theme=radical)
--->
-
----
-
 ## 🚀 Let’s Connect and Build Something Amazing!
-
-
-
-
