@@ -137,7 +137,6 @@ project handovers.
 ---
 
 ## Education
-
 ### Bachelor’s in Computer Engineering  
 *FIAP*  
 *2020 – December 2024*
