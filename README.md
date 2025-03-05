@@ -31,7 +31,8 @@
       - [Junior Big Data Engineer](#junior-big-data-engineer)
   - [Certifications](#certifications)
   - [Education](#education)
-  - [*2025 – May 2026*](#2025--may-2026)
+    - [Bachelor’s in Computer Engineering](#bachelors-in-computer-engineering)
+    - [MBA in Data Engineering](#mba-in-data-engineering)
   - [Languages](#languages)
   - [🏆 Awards \& Recognitions](#-awards--recognitions)
   - [Get In Touch](#get-in-touch)
@@ -137,13 +138,14 @@ project handovers.
 
 ## Education
 
-**Bachelor’s in Computer Engineering**  
+### Bachelor’s in Computer Engineering  
 *FIAP*  
 *2020 – December 2024*
 
-**MBA of Data Engineering**  
+### MBA in Data Engineering  
 *FIAP*  
 *2025 – May 2026*
+
 ---
 
 ## Languages
